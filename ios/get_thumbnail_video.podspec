@@ -2,11 +2,11 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-  s.name             = 'video_thumbnail'
-  s.version          = '0.0.1'
-  s.summary          = 'A new flutter plugin project.'
+  s.name             = 'get_thumbnail_video'
+  s.version          = '0.6.1'
+  s.summary          = 'A flutter plugin to show video thumbnails.'
   s.description      = <<-DESC
-A new flutter plugin project.
+A flutter plugin to show video thumbnails.
                        DESC
   s.homepage         = 'http://example.com'
   s.license          = { :file => '../LICENSE' }

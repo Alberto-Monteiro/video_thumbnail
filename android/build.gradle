@@ -1,4 +1,4 @@
-group 'xyz.justsoft.video_thumbnail'
+group 'xyz.justsoft.get_thumbnail_video'
 version '1.0-SNAPSHOT'
 
 buildscript {
